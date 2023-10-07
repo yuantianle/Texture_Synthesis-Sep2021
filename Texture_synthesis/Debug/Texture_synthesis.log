@@ -1,0 +1,7 @@
+﻿  Texture synthesis.cpp
+D:\CS551\Texture-master-run2\Texture_synthesis\Texture synthesis.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\CS551\Texture-master-run2\Texture_synthesis\Texture synthesis.cpp(69,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\CS551\Texture-master-run2\Texture_synthesis\Texture synthesis.cpp(83,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CS551\Texture-master-run2\Texture_synthesis\Texture synthesis.cpp(99,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CS551\Texture-master-run2\Texture_synthesis\Texture synthesis.cpp(113,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Texture_synthesis.vcxproj -> D:\CS551\Texture-master-run2\Texture_synthesis\Debug\Texture_synthesis.exe
